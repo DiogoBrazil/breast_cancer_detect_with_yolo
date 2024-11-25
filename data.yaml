@@ -1,0 +1,6 @@
+train: /home/ifro/breast_cancer_detect/BD_Combinada/train/images
+val: /home/ifro/breast_cancer_detect/BD_Combinada/valid/images
+test: /home/ifro/breast_cancer_detect/BD_Combinada/test/images
+
+nc: 3
+names: ['Mass', 'Mass', 'Mass']
